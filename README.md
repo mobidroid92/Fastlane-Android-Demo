@@ -4,9 +4,9 @@ This project is a Fastlane demo that will demonstrate how to automate the proces
 
 # Setup
 In order for this demo to work, you need to install Fastlane and the following plugins:
-- Install Increment Version Code https://github.com/Jems22/fastlane-plugin-increment_version_code
 - Install Fastlane https://docs.fastlane.tools/
 - Install switch branches plugin https://github.com/chdzq/fastlane-plugin-git_switch_branch/
+- Install Increment Version Code plugin https://github.com/Jems22/fastlane-plugin-increment_version_code
 - Install AppCenter plugin https://github.com/microsoft/fastlane-plugin-appcenter/
 - Install JIRA plugin https://github.com/OMWorks/fastlane_jira_transitions/
 - Microsoft Teams plugin https://github.com/mbogh/fastlane-plugin-teams/
