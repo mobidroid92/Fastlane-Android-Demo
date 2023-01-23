@@ -18,6 +18,12 @@
 # 	Pull latest changes
 	git_pull
 
+	appPath = "<Your Project Path>/app/"
+
+	increment_version_code(
+		gradle_file_path: appPath + "build.gradle"
+	  )
+
 # 	Clean project
 	gradle(task: "clean")
 
@@ -26,8 +32,6 @@
 #   Use bundle instead of assemble to generate an aab instead of apk
    taskToExecute = "assemble" + buildType
    
-	 appPath = "<Your Project Path>/app/"
-
 # 	Build signed APK
 	gradle(
  	 task: taskToExecute,
