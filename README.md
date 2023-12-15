@@ -27,7 +27,7 @@ This pipeline will do the following tasks:
 - Send a msg to Microsoft Teams to let people know!
 
 # Let me know!
-If you have any questions or suggestion please contact me on mobidroid92@gmail.com
+If you have any questions or suggestion please contact me on malbdour92@gmail.com
 
 # About
 Find me on LinkedIn: https://www.linkedin.com/in/mobidroid92/
